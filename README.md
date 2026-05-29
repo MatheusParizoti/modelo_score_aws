@@ -8,15 +8,18 @@
 <p align="center">
   <img src="img/transformers.jpeg" alt="Transformers" width="450"/>
 </p>
+----------------------------------------------------------------------
 ## R2 do Modelo
 
 <p align="center">
   <img src="img/metricas.png" alt="LeIA" width="450"/>
 </p>
 
-
-## Variavel que mais impacta
-
+----------------------------------------------------------------------
+## Histograma de Comportamento
+<p align="center">
+  <img src="img/histograma.png" alt="LeIA" width="450"/>
+</p>
 ## Matriz de Confusão
 
 ## Conclusão
