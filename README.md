@@ -10,6 +10,12 @@
 </p>
 
 ----------------------------------------------------------------------
+## Colunas Utilizadas como X
+<p align="center">
+  <img src="img/.png" alt="x" width="450"/>
+</p>
+
+----------------------------------------------------------------------
 ## R2 do Modelo
 <p align="center">
   <img src="img/metricas.png" alt="LeIA" width="450"/>
@@ -20,6 +26,6 @@
 <p align="center">
   <img src="img/histograma.png" alt="LeIA" width="450"/>
 </p>
-## Matriz de Confusão
+
 
 ## Conclusão
