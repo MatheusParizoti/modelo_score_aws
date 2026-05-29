@@ -6,7 +6,7 @@
   <img src="img/Vader.jpeg" alt="Vader" width="450"/>
 </p>
 <p align="center">
-  <img src="img/Transformers.jpeg" alt="Vader" width="450"/>
+  <img src="img/transformers.jpeg" alt="Transformers" width="450"/>
 </p>
 ## R2 do Modelo
 
